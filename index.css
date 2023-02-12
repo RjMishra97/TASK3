@@ -1,0 +1,18 @@
+
+#data{
+    padding: 20px;
+}
+body{
+    text-align: center;
+    background-color: black;
+    color:white
+}
+h1{
+    color: red;
+}
+input{
+    padding: 6px;
+}
+#btn{
+    height:30px
+}
